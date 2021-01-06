@@ -1,0 +1,4 @@
+#+title: Startpage
+#+author: Sabiqul
+
+This startpage has been forked from [[https://github.com/Tobias-Schoch/startpage-wave][Tobias Schoch's startpage]]. It has been modified to fit my needs as a medical student.
